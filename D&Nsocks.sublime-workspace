@@ -1,0 +1,386 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"por",
+				"portf"
+			],
+			[
+				"menu",
+				"menupr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"n",
+				"num2"
+			],
+			[
+				"nu",
+				"num1"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"f",
+				"fixed\tposition"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"mr",
+				"margin-right\tproperty"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"s",
+				"script\tTag"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"c",
+				"clearfix"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"clor",
+				"color\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"r",
+				"rounds"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"st",
+				"sticky\tposition"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"bo",
+				"border-color\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"float",
+				"float\tproperty"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"text-tr",
+				"text-transform\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"da",
+				"datalist\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"pr",
+				"progress\tTag"
+			],
+			[
+				"i",
+				"iframe\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/рабочий стол/сайт с нуля/index.html",
+		"/D/рабочий стол/сайт с нуля/css/main.css",
+		"/D/рабочий стол/сайт с нуля/js/main.js",
+		"/D/рабочий стол/сайт с нуля/js/jquery-3.4.1.js",
+		"/D/рабочий стол/wordpress/readme.html",
+		"/D/рабочий стол/сайт/index.html",
+		"/D/рабочий стол/cosmo/css/main.css",
+		"/D/рабочий стол/cosmo/index.html",
+		"/D/рабочий стол/wow.html",
+		"/D/рабочий стол/сайт с нуля/css/media.css",
+		"/D/рабочий стол/Bestattungsinstitut Firus – Just another WordPress site.html",
+		"/D/рабочий стол/startbootstrap-agency-gh-pages/mail/contact_me.php",
+		"/D/рабочий стол/Lydia/lydia-html/template/lydia/index.html",
+		"/D/рабочий стол/agency.css",
+		"/D/рабочий стол/indexx.html",
+		"/D/рабочий стол/agency.min.css",
+		"/D/рабочий стол/Bestattungsinstitut Firus – Just another WordPress site_files/frontend.min.js.загружено",
+		"/D/рабочий стол/Bestattungsinstitut Firus – Just another WordPress site_files/css(2)",
+		"/D/рабочий стол/wordpress/wp-config.php",
+		"/D/рабочий стол/startbootstrap-agency-gh-pages/index.html",
+		"/D/загрузки/Telegram Desktop/index1.html",
+		"/D/рабочий стол/startbootstrap-agency-gh-pages/js/contact_me.js",
+		"/C/Users/veimn/Desktop/карусель/Carousel Template for Bootstrap.html",
+		"/C/Users/veimn/Desktop/кавер/Cover Template for Bootstrap.html",
+		"/C/Users/veimn/Desktop/Cover Template for Bootstrap_files/bootstrap.min.js.загружено",
+		"/C/Users/veimn/Desktop/kinomonster/noindex2.html",
+		"/C/Users/veimn/Desktop/kinomonster/noindex.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"delay",
+			"777777",
+			"center"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "D&Nsocks.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
